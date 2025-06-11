@@ -8,7 +8,11 @@ Design Process and Flow Concept:
 
 ![PreDraftOutline](https://github.com/user-attachments/assets/d1c9eb82-7d0f-49c8-8590-f769ac91cbdd)
 
+Tray Concept:
+
 ![TrayOutline](https://github.com/user-attachments/assets/8483402a-44e5-418f-aa69-dc15589ff097)
+
+With Parts:
 
 ![TrayOutlineWithMaterials](https://github.com/user-attachments/assets/dd279bae-8cba-4986-9af2-4dfe1e907800)
 
